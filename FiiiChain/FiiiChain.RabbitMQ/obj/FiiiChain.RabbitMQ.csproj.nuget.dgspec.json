@@ -1,0 +1,164 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\BlockChain\\FiiiChain\\FiiiChain.RabbitMQ\\FiiiChain.RabbitMQ.csproj": {}
+  },
+  "projects": {
+    "D:\\BlockChain\\FiiiChain\\FiiiChain.Framework\\FiiiChain.Framework.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\BlockChain\\FiiiChain\\FiiiChain.Framework\\FiiiChain.Framework.csproj",
+        "projectName": "FiiiChain.Framework",
+        "projectPath": "D:\\BlockChain\\FiiiChain\\FiiiChain.Framework\\FiiiChain.Framework.csproj",
+        "packagesPath": "C:\\Users\\wangyulong\\.nuget\\packages\\",
+        "outputPath": "D:\\BlockChain\\FiiiChain\\FiiiChain.Framework\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\wangyulong\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "NSec.Cryptography": {
+              "target": "Package",
+              "version": "[18.5.0-preview3, )"
+            },
+            "SHA3.Net": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "SimpleBase": {
+              "target": "Package",
+              "version": "[1.3.1, )"
+            },
+            "System.Data.HashFunction.Blake2": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "XC.Framework.Security.RSAUtil": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            },
+            "log4net": {
+              "target": "Package",
+              "version": "[2.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\BlockChain\\FiiiChain\\FiiiChain.RabbitMQ\\FiiiChain.RabbitMQ.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\BlockChain\\FiiiChain\\FiiiChain.RabbitMQ\\FiiiChain.RabbitMQ.csproj",
+        "projectName": "FiiiChain.RabbitMQ",
+        "projectPath": "D:\\BlockChain\\FiiiChain\\FiiiChain.RabbitMQ\\FiiiChain.RabbitMQ.csproj",
+        "packagesPath": "C:\\Users\\wangyulong\\.nuget\\packages\\",
+        "outputPath": "D:\\BlockChain\\FiiiChain\\FiiiChain.RabbitMQ\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\wangyulong\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "targetAlias": "netcoreapp2.1",
+            "projectReferences": {
+              "D:\\BlockChain\\FiiiChain\\FiiiChain.Framework\\FiiiChain.Framework.csproj": {
+                "projectPath": "D:\\BlockChain\\FiiiChain\\FiiiChain.Framework\\FiiiChain.Framework.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "targetAlias": "netcoreapp2.1",
+          "dependencies": {
+            "EasyNetQ": {
+              "target": "Package",
+              "version": "[3.3.7, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[5.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

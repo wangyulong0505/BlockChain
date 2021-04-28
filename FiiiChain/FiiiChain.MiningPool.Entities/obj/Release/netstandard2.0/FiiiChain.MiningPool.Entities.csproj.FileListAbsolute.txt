@@ -1,0 +1,8 @@
+D:\BlockChain\FiiiChain\FiiiChain.MiningPool.Entities\bin\Release\netstandard2.0\FiiiChain.MiningPool.Entities.deps.json
+D:\BlockChain\FiiiChain\FiiiChain.MiningPool.Entities\bin\Release\netstandard2.0\FiiiChain.MiningPool.Entities.dll
+D:\BlockChain\FiiiChain\FiiiChain.MiningPool.Entities\bin\Release\netstandard2.0\FiiiChain.MiningPool.Entities.pdb
+D:\BlockChain\FiiiChain\FiiiChain.MiningPool.Entities\obj\Release\netstandard2.0\FiiiChain.MiningPool.Entities.csprojAssemblyReference.cache
+D:\BlockChain\FiiiChain\FiiiChain.MiningPool.Entities\obj\Release\netstandard2.0\FiiiChain.MiningPool.Entities.AssemblyInfoInputs.cache
+D:\BlockChain\FiiiChain\FiiiChain.MiningPool.Entities\obj\Release\netstandard2.0\FiiiChain.MiningPool.Entities.AssemblyInfo.cs
+D:\BlockChain\FiiiChain\FiiiChain.MiningPool.Entities\obj\Release\netstandard2.0\FiiiChain.MiningPool.Entities.dll
+D:\BlockChain\FiiiChain\FiiiChain.MiningPool.Entities\obj\Release\netstandard2.0\FiiiChain.MiningPool.Entities.pdb

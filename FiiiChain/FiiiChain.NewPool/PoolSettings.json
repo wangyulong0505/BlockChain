@@ -1,0 +1,18 @@
+{
+  "Socket": {
+    "IP": "192.168.1.67",
+    "MainPort": 8088,
+    "TestPort": 8088,
+    "MaxConnectNum": 1000,
+    "BufferSize": 1024,
+    "ClientTimeOut": 180000
+  },
+  "Pool": {
+    "PoolId": "Pool:F57786AD-7907-4F4B-9FFE-489FFC4E91D7",
+    "PoolHeartTime": 10000,
+    "PoolSaveWorkTime": 10000,
+    "MaxNonceCount": "262144",
+    "DefaultDiffculty":2
+  }
+
+}

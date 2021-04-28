@@ -1,0 +1,8 @@
+D:\BlockChain\FiiiChain\FiiiChain.DTO\bin\Release\netcoreapp2.0\FiiiChain.DTO.deps.json
+D:\BlockChain\FiiiChain\FiiiChain.DTO\bin\Release\netcoreapp2.0\FiiiChain.DTO.dll
+D:\BlockChain\FiiiChain\FiiiChain.DTO\bin\Release\netcoreapp2.0\FiiiChain.DTO.pdb
+D:\BlockChain\FiiiChain\FiiiChain.DTO\obj\Release\netcoreapp2.0\FiiiChain.DTO.AssemblyInfoInputs.cache
+D:\BlockChain\FiiiChain\FiiiChain.DTO\obj\Release\netcoreapp2.0\FiiiChain.DTO.AssemblyInfo.cs
+D:\BlockChain\FiiiChain\FiiiChain.DTO\obj\Release\netcoreapp2.0\FiiiChain.DTO.dll
+D:\BlockChain\FiiiChain\FiiiChain.DTO\obj\Release\netcoreapp2.0\FiiiChain.DTO.pdb
+D:\BlockChain\FiiiChain\FiiiChain.DTO\obj\Release\netcoreapp2.0\FiiiChain.DTO.csprojAssemblyReference.cache

@@ -1,0 +1,15 @@
+D:\BlockChain\FiiiChain\FiiiChain.MiningPool.Data\bin\Release\netstandard2.0\FiiiChain.MiningPool.Data.deps.json
+D:\BlockChain\FiiiChain\FiiiChain.MiningPool.Data\bin\Release\netstandard2.0\FiiiChain.MiningPool.Data.dll
+D:\BlockChain\FiiiChain\FiiiChain.MiningPool.Data\bin\Release\netstandard2.0\FiiiChain.MiningPool.Data.pdb
+D:\BlockChain\FiiiChain\FiiiChain.MiningPool.Data\bin\Release\netstandard2.0\FiiiChain.Framework.dll
+D:\BlockChain\FiiiChain\FiiiChain.MiningPool.Data\bin\Release\netstandard2.0\FiiiChain.MiningPool.Entities.dll
+D:\BlockChain\FiiiChain\FiiiChain.MiningPool.Data\bin\Release\netstandard2.0\FiiiChain.Framework.pdb
+D:\BlockChain\FiiiChain\FiiiChain.MiningPool.Data\bin\Release\netstandard2.0\FiiiChain.MiningPool.Entities.pdb
+D:\BlockChain\FiiiChain\FiiiChain.MiningPool.Data\obj\Release\netstandard2.0\FiiiChain.MiningPool.Data.csprojAssemblyReference.cache
+D:\BlockChain\FiiiChain\FiiiChain.MiningPool.Data\obj\Release\netstandard2.0\FiiiChain.MiningPool.Data.Resource.resources
+D:\BlockChain\FiiiChain\FiiiChain.MiningPool.Data\obj\Release\netstandard2.0\FiiiChain.MiningPool.Data.csproj.GenerateResource.cache
+D:\BlockChain\FiiiChain\FiiiChain.MiningPool.Data\obj\Release\netstandard2.0\FiiiChain.MiningPool.Data.AssemblyInfoInputs.cache
+D:\BlockChain\FiiiChain\FiiiChain.MiningPool.Data\obj\Release\netstandard2.0\FiiiChain.MiningPool.Data.AssemblyInfo.cs
+D:\BlockChain\FiiiChain\FiiiChain.MiningPool.Data\obj\Release\netstandard2.0\FiiiChain.MiningPool.Data.csproj.CopyComplete
+D:\BlockChain\FiiiChain\FiiiChain.MiningPool.Data\obj\Release\netstandard2.0\FiiiChain.MiningPool.Data.dll
+D:\BlockChain\FiiiChain\FiiiChain.MiningPool.Data\obj\Release\netstandard2.0\FiiiChain.MiningPool.Data.pdb

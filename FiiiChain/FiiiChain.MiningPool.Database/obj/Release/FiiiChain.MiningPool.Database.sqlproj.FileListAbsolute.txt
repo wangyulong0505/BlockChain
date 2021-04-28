@@ -1,0 +1,9 @@
+D:\Code\FiiiChain\FiiiChain\FiiiChain.MiningPool.Database\bin\Release\FiiiChain.MiningPool.Database.dacpac
+D:\Code\FiiiChain\FiiiChain\FiiiChain.MiningPool.Database\bin\Release\FiiiChain.MiningPool.Database.dll
+D:\Code\FiiiChain\FiiiChain\FiiiChain.MiningPool.Database\bin\Release\FiiiChain.MiningPool.Database.pdb
+D:\Code\FiiiChain\FiiiChain\FiiiChain.MiningPool.Database\obj\Release\Model.xml
+D:\Code\FiiiChain\FiiiChain\FiiiChain.MiningPool.Database\obj\Release\refactor.xml
+D:\Code\FiiiChain\FiiiChain\FiiiChain.MiningPool.Database\obj\Release\postdeploy.sql
+D:\Code\FiiiChain\FiiiChain\FiiiChain.MiningPool.Database\obj\Release\predeploy.sql
+D:\Code\FiiiChain\FiiiChain\FiiiChain.MiningPool.Database\obj\Release\FiiiChain.MiningPool.Database.dll
+D:\Code\FiiiChain\FiiiChain\FiiiChain.MiningPool.Database\obj\Release\FiiiChain.MiningPool.Database.pdb

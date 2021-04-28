@@ -1,0 +1,15 @@
+D:\BlockChain\FiiiChain\FiiiChain.Consensus\bin\Release\netcoreapp2.0\FiiiChain.Consensus.deps.json
+D:\BlockChain\FiiiChain\FiiiChain.Consensus\bin\Release\netcoreapp2.0\FiiiChain.Consensus.dll
+D:\BlockChain\FiiiChain\FiiiChain.Consensus\bin\Release\netcoreapp2.0\FiiiChain.Consensus.pdb
+D:\BlockChain\FiiiChain\FiiiChain.Consensus\bin\Release\netcoreapp2.0\FiiiChain.Entities.dll
+D:\BlockChain\FiiiChain\FiiiChain.Consensus\bin\Release\netcoreapp2.0\FiiiChain.Framework.dll
+D:\BlockChain\FiiiChain\FiiiChain.Consensus\bin\Release\netcoreapp2.0\FiiiChain.Messages.dll
+D:\BlockChain\FiiiChain\FiiiChain.Consensus\bin\Release\netcoreapp2.0\FiiiChain.Entities.pdb
+D:\BlockChain\FiiiChain\FiiiChain.Consensus\bin\Release\netcoreapp2.0\FiiiChain.Messages.pdb
+D:\BlockChain\FiiiChain\FiiiChain.Consensus\bin\Release\netcoreapp2.0\FiiiChain.Framework.pdb
+D:\BlockChain\FiiiChain\FiiiChain.Consensus\obj\Release\netcoreapp2.0\FiiiChain.Consensus.csprojAssemblyReference.cache
+D:\BlockChain\FiiiChain\FiiiChain.Consensus\obj\Release\netcoreapp2.0\FiiiChain.Consensus.AssemblyInfoInputs.cache
+D:\BlockChain\FiiiChain\FiiiChain.Consensus\obj\Release\netcoreapp2.0\FiiiChain.Consensus.AssemblyInfo.cs
+D:\BlockChain\FiiiChain\FiiiChain.Consensus\obj\Release\netcoreapp2.0\FiiiChain.Consensus.csproj.CopyComplete
+D:\BlockChain\FiiiChain\FiiiChain.Consensus\obj\Release\netcoreapp2.0\FiiiChain.Consensus.dll
+D:\BlockChain\FiiiChain\FiiiChain.Consensus\obj\Release\netcoreapp2.0\FiiiChain.Consensus.pdb

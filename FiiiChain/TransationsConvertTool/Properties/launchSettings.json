@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TransationsConvertTool": {
+      "commandName": "Project",
+      "commandLineArgs": "Trans"
+    }
+  }
+}

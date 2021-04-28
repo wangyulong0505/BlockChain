@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "FiiiChain.DTO/1.0.0": {
+        "runtime": {
+          "FiiiChain.DTO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FiiiChain.DTO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

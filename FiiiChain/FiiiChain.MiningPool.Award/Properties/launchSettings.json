@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FiiiChain.MiningPool.Award": {
+      "commandName": "Project",
+      "commandLineArgs": "-testnet L0@dRunn3r@2018 1900292902"
+    }
+  }
+}

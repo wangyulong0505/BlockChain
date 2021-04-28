@@ -1,0 +1,21 @@
+{
+  "ServerSetting": {
+    "ServerRefreshTime": 600000,
+    "MinerAmount": 500,
+    "IsTestNet": true,
+    "ServerInfoList": [
+      {
+        "Name": "Server001",
+        "IPAddress": "192.168.130.80"
+      },
+      {
+        "Name": "Server002",
+        "IPAddress": "192.168.130.81"
+      },
+      {
+        "Name": "Server003",
+        "IPAddress": "192.168.130.82"
+      }
+    ]
+  }
+}

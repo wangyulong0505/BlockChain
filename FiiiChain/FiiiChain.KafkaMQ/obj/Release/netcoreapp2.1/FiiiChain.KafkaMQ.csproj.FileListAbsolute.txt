@@ -1,0 +1,15 @@
+D:\BlockChain\FiiiChain\FiiiChain.KafkaMQ\bin\Release\netcoreapp2.1\x86\librdkafka.dll
+D:\BlockChain\FiiiChain\FiiiChain.KafkaMQ\bin\Release\netcoreapp2.1\x86\zlib.dll
+D:\BlockChain\FiiiChain\FiiiChain.KafkaMQ\bin\Release\netcoreapp2.1\x64\librdkafka.dll
+D:\BlockChain\FiiiChain\FiiiChain.KafkaMQ\bin\Release\netcoreapp2.1\x64\zlib.dll
+D:\BlockChain\FiiiChain\FiiiChain.KafkaMQ\bin\Release\netcoreapp2.1\FiiiChain.KafkaMQ.deps.json
+D:\BlockChain\FiiiChain\FiiiChain.KafkaMQ\bin\Release\netcoreapp2.1\FiiiChain.KafkaMQ.dll
+D:\BlockChain\FiiiChain\FiiiChain.KafkaMQ\bin\Release\netcoreapp2.1\FiiiChain.KafkaMQ.pdb
+D:\BlockChain\FiiiChain\FiiiChain.KafkaMQ\bin\Release\netcoreapp2.1\FiiiChain.Framework.dll
+D:\BlockChain\FiiiChain\FiiiChain.KafkaMQ\bin\Release\netcoreapp2.1\FiiiChain.Framework.pdb
+D:\BlockChain\FiiiChain\FiiiChain.KafkaMQ\obj\Release\netcoreapp2.1\FiiiChain.KafkaMQ.csprojAssemblyReference.cache
+D:\BlockChain\FiiiChain\FiiiChain.KafkaMQ\obj\Release\netcoreapp2.1\FiiiChain.KafkaMQ.AssemblyInfoInputs.cache
+D:\BlockChain\FiiiChain\FiiiChain.KafkaMQ\obj\Release\netcoreapp2.1\FiiiChain.KafkaMQ.AssemblyInfo.cs
+D:\BlockChain\FiiiChain\FiiiChain.KafkaMQ\obj\Release\netcoreapp2.1\FiiiChain.KafkaMQ.csproj.CopyComplete
+D:\BlockChain\FiiiChain\FiiiChain.KafkaMQ\obj\Release\netcoreapp2.1\FiiiChain.KafkaMQ.dll
+D:\BlockChain\FiiiChain\FiiiChain.KafkaMQ\obj\Release\netcoreapp2.1\FiiiChain.KafkaMQ.pdb

@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\FiiiChain.Data\FiiiChain.Data.csproj" />
+    <ProjectReference Include="..\FiiiChain.Entities\FiiiChain.Entities.csproj" />
+  </ItemGroup>
+
+</Project>

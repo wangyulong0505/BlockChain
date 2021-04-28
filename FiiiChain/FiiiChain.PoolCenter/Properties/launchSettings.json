@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FiiiChain.PoolCenter": {
+      "commandName": "Project",
+      "commandLineArgs": "-testnet testNode fiiit4MBt7EpAFx8VcFdVSbAbDp1s4g4HfKA61 111111"
+    }
+  }
+}

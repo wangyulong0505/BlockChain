@@ -1,0 +1,22 @@
+{
+  "MergeConfig": {
+    "FinalAmount": 250,
+    "SearchMaxAmount": 100,
+    "SearchMinAmount": 0,
+    "SendAddress": "fiiit4MBt7EpAFx8VcFdVSbAbDp1s4g4HfKA61",
+    "ChangeAddress": "fiiit4MBt7EpAFx8VcFdVSbAbDp1s4g4HfKA61",
+    "FeeRate": 1024,
+    "PageSize": 300,
+    "SleepSeconds": 0,
+    "TransactionCount": 100
+  },
+  "SplitConfig": {
+    "FinalAmount": 250,
+    "SplitMaxAmount": 100,
+    "SplitMinAmount": 0,
+    "SendAddress": "fiiit4MBt7EpAFx8VcFdVSbAbDp1s4g4HfKA61",
+    "ChangeAddress": "fiiit4MBt7EpAFx8VcFdVSbAbDp1s4g4HfKA61",
+    "FeeRate": 1024,
+    "PageSize": 300
+  }
+}

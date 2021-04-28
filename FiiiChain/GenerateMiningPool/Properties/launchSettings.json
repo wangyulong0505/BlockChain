@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "GenerateMiningPool": {
+      "commandName": "Project"
+    }
+  }
+}

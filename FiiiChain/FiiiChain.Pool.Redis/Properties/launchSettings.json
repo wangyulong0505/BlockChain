@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FiiiChain.Pool.Redis": {
+      "commandName": "Project",
+      "commandLineArgs": "-testnet"
+    }
+  }
+}

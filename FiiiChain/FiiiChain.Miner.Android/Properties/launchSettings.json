@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FiiiChain.MinerTest": {
+      "commandName": "Project",
+      "commandLineArgs": "init 47.75.166.33 5009 N30001F0874 fiiima4mhcLsxDLGutGP99AEgTq3HH2fu72V8p D:\\android\\data\\com.fiiigroup.fiiipos\\file\\mining 31138512896 false"
+    }
+  }
+}

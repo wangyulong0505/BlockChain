@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FiiiChain.MinerTest": {
+      "commandName": "Project",
+      "commandLineArgs": "init "
+    }
+  }
+}

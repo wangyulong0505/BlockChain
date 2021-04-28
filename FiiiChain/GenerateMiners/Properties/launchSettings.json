@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "GenerateMiners": {
+      "commandName": "Project",
+      "commandLineArgs": "-testnet"
+    }
+  }
+}

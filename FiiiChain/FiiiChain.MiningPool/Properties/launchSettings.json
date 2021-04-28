@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FiiiChain.MiningPool": {
+      "commandName": "Project",
+      "commandLineArgs": "-testnet jot fiiitNSh3yMY8hQyqmeNxqKJDNYQr2F6v1UNt6"
+    }
+  }
+}

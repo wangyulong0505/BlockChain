@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FiiiChain.InvestorAward": {
+      "commandName": "Project",
+      "commandLineArgs": "-testnet"
+    }
+  }
+}

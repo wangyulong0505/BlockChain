@@ -1,0 +1,13 @@
+D:\BlockChain\FiiiChain\FiiiChain.PoolMessages\bin\Release\netstandard2.0\FiiiChain.PoolMessages.deps.json
+D:\BlockChain\FiiiChain\FiiiChain.PoolMessages\bin\Release\netstandard2.0\FiiiChain.PoolMessages.dll
+D:\BlockChain\FiiiChain\FiiiChain.PoolMessages\bin\Release\netstandard2.0\FiiiChain.PoolMessages.pdb
+D:\BlockChain\FiiiChain\FiiiChain.PoolMessages\bin\Release\netstandard2.0\FiiiChain.Framework.dll
+D:\BlockChain\FiiiChain\FiiiChain.PoolMessages\bin\Release\netstandard2.0\FiiiChain.Framework.pdb
+D:\BlockChain\FiiiChain\FiiiChain.PoolMessages\obj\Release\netstandard2.0\FiiiChain.PoolMessages.csprojAssemblyReference.cache
+D:\BlockChain\FiiiChain\FiiiChain.PoolMessages\obj\Release\netstandard2.0\FiiiChain.PoolMessages.Resource.resources
+D:\BlockChain\FiiiChain\FiiiChain.PoolMessages\obj\Release\netstandard2.0\FiiiChain.PoolMessages.csproj.GenerateResource.cache
+D:\BlockChain\FiiiChain\FiiiChain.PoolMessages\obj\Release\netstandard2.0\FiiiChain.PoolMessages.AssemblyInfoInputs.cache
+D:\BlockChain\FiiiChain\FiiiChain.PoolMessages\obj\Release\netstandard2.0\FiiiChain.PoolMessages.AssemblyInfo.cs
+D:\BlockChain\FiiiChain\FiiiChain.PoolMessages\obj\Release\netstandard2.0\FiiiChain.PoolMessages.csproj.CopyComplete
+D:\BlockChain\FiiiChain\FiiiChain.PoolMessages\obj\Release\netstandard2.0\FiiiChain.PoolMessages.dll
+D:\BlockChain\FiiiChain\FiiiChain.PoolMessages\obj\Release\netstandard2.0\FiiiChain.PoolMessages.pdb

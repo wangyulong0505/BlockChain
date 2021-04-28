@@ -1,0 +1,15 @@
+D:\BlockChain\FiiiChain\FiiiChain.Messages\bin\Release\netcoreapp2.0\FiiiChain.Messages.deps.json
+D:\BlockChain\FiiiChain\FiiiChain.Messages\bin\Release\netcoreapp2.0\FiiiChain.Messages.dll
+D:\BlockChain\FiiiChain\FiiiChain.Messages\bin\Release\netcoreapp2.0\FiiiChain.Messages.pdb
+D:\BlockChain\FiiiChain\FiiiChain.Messages\bin\Release\netcoreapp2.0\FiiiChain.Entities.dll
+D:\BlockChain\FiiiChain\FiiiChain.Messages\bin\Release\netcoreapp2.0\FiiiChain.Framework.dll
+D:\BlockChain\FiiiChain\FiiiChain.Messages\bin\Release\netcoreapp2.0\FiiiChain.Entities.pdb
+D:\BlockChain\FiiiChain\FiiiChain.Messages\bin\Release\netcoreapp2.0\FiiiChain.Framework.pdb
+D:\BlockChain\FiiiChain\FiiiChain.Messages\obj\Release\netcoreapp2.0\FiiiChain.Messages.csprojAssemblyReference.cache
+D:\BlockChain\FiiiChain\FiiiChain.Messages\obj\Release\netcoreapp2.0\FiiiChain.Messages.Resource.resources
+D:\BlockChain\FiiiChain\FiiiChain.Messages\obj\Release\netcoreapp2.0\FiiiChain.Messages.csproj.GenerateResource.cache
+D:\BlockChain\FiiiChain\FiiiChain.Messages\obj\Release\netcoreapp2.0\FiiiChain.Messages.AssemblyInfoInputs.cache
+D:\BlockChain\FiiiChain\FiiiChain.Messages\obj\Release\netcoreapp2.0\FiiiChain.Messages.AssemblyInfo.cs
+D:\BlockChain\FiiiChain\FiiiChain.Messages\obj\Release\netcoreapp2.0\FiiiChain.Messages.csproj.CopyComplete
+D:\BlockChain\FiiiChain\FiiiChain.Messages\obj\Release\netcoreapp2.0\FiiiChain.Messages.dll
+D:\BlockChain\FiiiChain\FiiiChain.Messages\obj\Release\netcoreapp2.0\FiiiChain.Messages.pdb

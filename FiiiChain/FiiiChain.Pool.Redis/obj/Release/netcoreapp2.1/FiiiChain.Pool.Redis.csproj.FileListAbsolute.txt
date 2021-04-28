@@ -1,0 +1,11 @@
+D:\BlockChain\FiiiChain\FiiiChain.Pool.Redis\bin\Release\netcoreapp2.1\FiiiChain.Pool.Redis.deps.json
+D:\BlockChain\FiiiChain\FiiiChain.Pool.Redis\bin\Release\netcoreapp2.1\FiiiChain.Pool.Redis.dll
+D:\BlockChain\FiiiChain\FiiiChain.Pool.Redis\bin\Release\netcoreapp2.1\FiiiChain.Pool.Redis.pdb
+D:\BlockChain\FiiiChain\FiiiChain.Pool.Redis\bin\Release\netcoreapp2.1\FiiiChain.Framework.dll
+D:\BlockChain\FiiiChain\FiiiChain.Pool.Redis\bin\Release\netcoreapp2.1\FiiiChain.Framework.pdb
+D:\BlockChain\FiiiChain\FiiiChain.Pool.Redis\obj\Release\netcoreapp2.1\FiiiChain.Pool.Redis.csprojAssemblyReference.cache
+D:\BlockChain\FiiiChain\FiiiChain.Pool.Redis\obj\Release\netcoreapp2.1\FiiiChain.Pool.Redis.AssemblyInfoInputs.cache
+D:\BlockChain\FiiiChain\FiiiChain.Pool.Redis\obj\Release\netcoreapp2.1\FiiiChain.Pool.Redis.AssemblyInfo.cs
+D:\BlockChain\FiiiChain\FiiiChain.Pool.Redis\obj\Release\netcoreapp2.1\FiiiChain.Pool.Redis.csproj.CopyComplete
+D:\BlockChain\FiiiChain\FiiiChain.Pool.Redis\obj\Release\netcoreapp2.1\FiiiChain.Pool.Redis.dll
+D:\BlockChain\FiiiChain\FiiiChain.Pool.Redis\obj\Release\netcoreapp2.1\FiiiChain.Pool.Redis.pdb

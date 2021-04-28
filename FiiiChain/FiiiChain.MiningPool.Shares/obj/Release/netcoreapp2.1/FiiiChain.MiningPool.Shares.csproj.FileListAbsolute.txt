@@ -1,0 +1,11 @@
+D:\BlockChain\FiiiChain\FiiiChain.MiningPool.Shares\bin\Release\netcoreapp2.1\FiiiChain.MiningPool.Shares.deps.json
+D:\BlockChain\FiiiChain\FiiiChain.MiningPool.Shares\bin\Release\netcoreapp2.1\FiiiChain.MiningPool.Shares.dll
+D:\BlockChain\FiiiChain\FiiiChain.MiningPool.Shares\bin\Release\netcoreapp2.1\FiiiChain.MiningPool.Shares.pdb
+D:\BlockChain\FiiiChain\FiiiChain.MiningPool.Shares\bin\Release\netcoreapp2.1\FiiiChain.Framework.dll
+D:\BlockChain\FiiiChain\FiiiChain.MiningPool.Shares\bin\Release\netcoreapp2.1\FiiiChain.Framework.pdb
+D:\BlockChain\FiiiChain\FiiiChain.MiningPool.Shares\obj\Release\netcoreapp2.1\FiiiChain.MiningPool.Shares.csprojAssemblyReference.cache
+D:\BlockChain\FiiiChain\FiiiChain.MiningPool.Shares\obj\Release\netcoreapp2.1\FiiiChain.MiningPool.Shares.AssemblyInfoInputs.cache
+D:\BlockChain\FiiiChain\FiiiChain.MiningPool.Shares\obj\Release\netcoreapp2.1\FiiiChain.MiningPool.Shares.AssemblyInfo.cs
+D:\BlockChain\FiiiChain\FiiiChain.MiningPool.Shares\obj\Release\netcoreapp2.1\FiiiChain.MiningPool.Shares.csproj.CopyComplete
+D:\BlockChain\FiiiChain\FiiiChain.MiningPool.Shares\obj\Release\netcoreapp2.1\FiiiChain.MiningPool.Shares.dll
+D:\BlockChain\FiiiChain\FiiiChain.MiningPool.Shares\obj\Release\netcoreapp2.1\FiiiChain.MiningPool.Shares.pdb

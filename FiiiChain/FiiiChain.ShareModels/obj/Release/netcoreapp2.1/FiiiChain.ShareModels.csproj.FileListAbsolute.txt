@@ -1,0 +1,17 @@
+D:\BlockChain\FiiiChain\FiiiChain.ShareModels\bin\Release\netcoreapp2.1\FiiiChain.ShareModels.deps.json
+D:\BlockChain\FiiiChain\FiiiChain.ShareModels\bin\Release\netcoreapp2.1\FiiiChain.ShareModels.dll
+D:\BlockChain\FiiiChain\FiiiChain.ShareModels\bin\Release\netcoreapp2.1\FiiiChain.ShareModels.pdb
+D:\BlockChain\FiiiChain\FiiiChain.ShareModels\bin\Release\netcoreapp2.1\FiiiChain.Entities.dll
+D:\BlockChain\FiiiChain\FiiiChain.ShareModels\bin\Release\netcoreapp2.1\FiiiChain.Framework.dll
+D:\BlockChain\FiiiChain\FiiiChain.ShareModels\bin\Release\netcoreapp2.1\FiiiChain.Messages.dll
+D:\BlockChain\FiiiChain\FiiiChain.ShareModels\bin\Release\netcoreapp2.1\FiiiChain.PoolMessages.dll
+D:\BlockChain\FiiiChain\FiiiChain.ShareModels\bin\Release\netcoreapp2.1\FiiiChain.Messages.pdb
+D:\BlockChain\FiiiChain\FiiiChain.ShareModels\bin\Release\netcoreapp2.1\FiiiChain.PoolMessages.pdb
+D:\BlockChain\FiiiChain\FiiiChain.ShareModels\bin\Release\netcoreapp2.1\FiiiChain.Entities.pdb
+D:\BlockChain\FiiiChain\FiiiChain.ShareModels\bin\Release\netcoreapp2.1\FiiiChain.Framework.pdb
+D:\BlockChain\FiiiChain\FiiiChain.ShareModels\obj\Release\netcoreapp2.1\FiiiChain.ShareModels.csprojAssemblyReference.cache
+D:\BlockChain\FiiiChain\FiiiChain.ShareModels\obj\Release\netcoreapp2.1\FiiiChain.ShareModels.AssemblyInfoInputs.cache
+D:\BlockChain\FiiiChain\FiiiChain.ShareModels\obj\Release\netcoreapp2.1\FiiiChain.ShareModels.AssemblyInfo.cs
+D:\BlockChain\FiiiChain\FiiiChain.ShareModels\obj\Release\netcoreapp2.1\FiiiChain.ShareModels.csproj.CopyComplete
+D:\BlockChain\FiiiChain\FiiiChain.ShareModels\obj\Release\netcoreapp2.1\FiiiChain.ShareModels.dll
+D:\BlockChain\FiiiChain\FiiiChain.ShareModels\obj\Release\netcoreapp2.1\FiiiChain.ShareModels.pdb

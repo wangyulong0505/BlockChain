@@ -1,0 +1,29 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <LangVersion>7.3</LangVersion>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="EdjCase.JsonRpc.Client" Version="2.1.3" />
+    <PackageReference Include="MySql.Data" Version="8.0.13" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\FiiiChain.AliMQ\FiiiChain.AliMQ.csproj" />
+    <ProjectReference Include="..\FiiiChain.Data\FiiiChain.Data.csproj" />
+    <ProjectReference Include="..\FiiiChain.DTO\FiiiChain.DTO.csproj" />
+    <ProjectReference Include="..\FiiiChain.Framework\FiiiChain.Framework.csproj" />
+    <ProjectReference Include="..\FiiiChain.MiningPool.Entities\FiiiChain.MiningPool.Entities.csproj" />
+    <ProjectReference Include="..\FiiiChain.RabbitMQ\FiiiChain.RabbitMQ.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="log4net.config">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+</Project>

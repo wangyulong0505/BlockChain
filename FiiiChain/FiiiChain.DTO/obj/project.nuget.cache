@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "aoEBke+K9N3qbS6+rTFGesjq1Ltld7CjOEzLa8X1c8Ua/rHSGb1shNyfL9ysXzIYuiD/8ucY+47YMLBgkkBXPA==",
+  "success": true,
+  "projectFilePath": "D:\\BlockChain\\FiiiChain\\FiiiChain.DTO\\FiiiChain.DTO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wangyulong\\.nuget\\packages\\microsoft.netcore.app\\2.0.0\\microsoft.netcore.app.2.0.0.nupkg.sha512",
+    "C:\\Users\\wangyulong\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.0\\microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",
+    "C:\\Users\\wangyulong\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.0.0\\microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512",
+    "C:\\Users\\wangyulong\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.0.0\\microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\wangyulong\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

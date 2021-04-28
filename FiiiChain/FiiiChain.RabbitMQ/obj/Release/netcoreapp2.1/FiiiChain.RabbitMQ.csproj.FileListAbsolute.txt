@@ -1,0 +1,11 @@
+D:\BlockChain\FiiiChain\FiiiChain.RabbitMQ\bin\Release\netcoreapp2.1\FiiiChain.RabbitMQ.deps.json
+D:\BlockChain\FiiiChain\FiiiChain.RabbitMQ\bin\Release\netcoreapp2.1\FiiiChain.RabbitMQ.dll
+D:\BlockChain\FiiiChain\FiiiChain.RabbitMQ\bin\Release\netcoreapp2.1\FiiiChain.RabbitMQ.pdb
+D:\BlockChain\FiiiChain\FiiiChain.RabbitMQ\bin\Release\netcoreapp2.1\FiiiChain.Framework.dll
+D:\BlockChain\FiiiChain\FiiiChain.RabbitMQ\bin\Release\netcoreapp2.1\FiiiChain.Framework.pdb
+D:\BlockChain\FiiiChain\FiiiChain.RabbitMQ\obj\Release\netcoreapp2.1\FiiiChain.RabbitMQ.csprojAssemblyReference.cache
+D:\BlockChain\FiiiChain\FiiiChain.RabbitMQ\obj\Release\netcoreapp2.1\FiiiChain.RabbitMQ.AssemblyInfoInputs.cache
+D:\BlockChain\FiiiChain\FiiiChain.RabbitMQ\obj\Release\netcoreapp2.1\FiiiChain.RabbitMQ.AssemblyInfo.cs
+D:\BlockChain\FiiiChain\FiiiChain.RabbitMQ\obj\Release\netcoreapp2.1\FiiiChain.RabbitMQ.csproj.CopyComplete
+D:\BlockChain\FiiiChain\FiiiChain.RabbitMQ\obj\Release\netcoreapp2.1\FiiiChain.RabbitMQ.dll
+D:\BlockChain\FiiiChain\FiiiChain.RabbitMQ\obj\Release\netcoreapp2.1\FiiiChain.RabbitMQ.pdb
